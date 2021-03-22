@@ -25,11 +25,11 @@ Hotel bookings dashboard:
 * The second dataset is a marketing funnel dataset from the same company. (https://www.kaggle.com/olistbr/marketing-funnel-olist)
 * Wrote a variety of SQL queries (e.g. joins, groupby, functions, stored procedures, views) to extract data that I needed for analysis.
 * With the extracted data, I created an interactive dashboard in Excel that summarises the main insights from the dataset.  
-\
+
 ### Thoughts:
 * Before I started on the project I took a short course on the fundamentals of database design, where I learned about best practices in database design, such as database normalization (principles of organizing data to minimize redundancy), or the essentiality of primary keys for each data table.
 * The project was a good opportunity for me to apply and practice what I have learned.  
-\
+
 Entity Relationship Diagram of the database
 ![](images/SQL%20project%20ERD.png)
 
