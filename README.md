@@ -5,6 +5,8 @@ A record of the projects I completed
 ### Overview
 * Created an interactive dashboard using a hotel bookings dataset (https://www.kaggle.com/jessemostipak/hotel-booking-demand).
 * Data wrangling is done using the Power Query editor in Excel.
+* With the dashboard, key trends and statistics about hotel bookings can viewed at a glance.
+* Users could use the slicers to zoom in to particular subsets of the data they are intersted in. 
 ![](images/Hotel%20Bookings%20Dashboard.png)
 
 ### Thoughts:
@@ -20,8 +22,11 @@ A record of the projects I completed
 * Created a new database in MSSQL using two e-commerce datasets from Kaggle, which I merged. (https://www.kaggle.com/olistbr/brazilian-ecommerce) (https://www.kaggle.com/olistbr/marketing-funnel-olist)
 * In designing my database, I applied good practices of database design, e.g. database normalization, usage of primary keys and foreign keys.
 * Wrote a variety of SQL queries (e.g. joins, groupby, functions, stored procedures, views) to extract data that I needed for analysis.
-* With the extracted data, I created visualisations using Excel
+* With the extracted data, I created an interactive dashboard using Excel
 
+![](images/SQL%20project%20ERD.png)
+![](images/SQL%20project%20snapshot%201.png)
+![] (images/SQL%20project%20snapshot%202.png)
 
 
 
