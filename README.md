@@ -20,16 +20,8 @@ A record of the projects I completed
 * Created a new database in MSSQL using two e-commerce datasets from Kaggle, which I merged. (https://www.kaggle.com/olistbr/brazilian-ecommerce) (https://www.kaggle.com/olistbr/marketing-funnel-olist)
 * In designing my database, I applied good practices of database design, e.g. database normalization, usage of primary keys and foreign keys.
 * Wrote a variety of SQL queries (e.g. joins, groupby, functions, stored procedures, views) to extract data that I needed for analysis.
-* With the extracted data 
+* With the extracted data, I created visualisations using Excel
 
 
 
-### Thoughts:
-* 
-* I
-* The large
 
-
-* Thereafter, I used Excel to perform data visualisation
-* The purpose of this project is mainly to familiarise myself with SQL syntax, and be familiar with things like joins, functions, stored procedures, groupby and etc
-* 
