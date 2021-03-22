@@ -26,7 +26,7 @@ A record of the projects I completed
 
 ![](images/SQL%20project%20ERD.png)
 ![](images/SQL%20project%20snapshot%201.png)
-![] (images/SQL%20project%20snapshot%202.png)
+![](images/SQL%20project%20snapshot%202.png)
 
 
 
